@@ -16,7 +16,7 @@
 - Trabalho com equipes multidisciplinares;
 
 ### ⚡ **Cientista e Analista de Dados**   
-Sou uma cientista de dados em formação. Com foco na proposição de soluções e no enfrentamento de desafios através do desenvolvimento de modelos analíticos (preditivos e descritivos).
+Foco na proposição de soluções e no enfrentamento de desafios através do desenvolvimento de modelos analíticos (preditivos e descritivos). Sou uma cientista de dados em formação.   
 ### ⚙️ Conhecimento Técnico:
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
@@ -40,4 +40,4 @@ Sou uma cientista de dados em formação. Com foco na proposição de soluções
 
 
 <br></br>
->### :bulb: "Há um amor pelo maravilhoso, uma creça no maravilhoso entrelaçada em todos os meus projetos, que me precipita além das veredas comuns dos homens, até mesmo para o mar mais bravio e para regiões nunca visitadas que estou prestes a explorar"                                                                                       <p align="right">_Mary Shelley - Frankenstein_ </p>
+>### :bulb: "Há um amor pelo maravilhoso, uma crença no maravilhoso entrelaçada em todos os meus projetos, que me precipita além das veredas comuns dos homens, até mesmo para o mar mais bravio e para regiões nunca visitadas que estou prestes a explorar"                                                                                       <p align="right">_Mary Shelley - Frankenstein_ </p>
