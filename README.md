@@ -4,15 +4,24 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nat%C3%A1lia-freitas-de-souza-45829144//)](https://www.linkedin.com/in/nat%C3%A1lia-freitas-de-souza-45829144/)
 
-## 🧪 **Formação | Experiência** 
+## 🧪 **Formação** 
 - Especialização em Data Science e Data Analytics pela USP, com previsão de término em 2023.
 - Doutorado em Ecologia (UFRJ), Mestre em Ciências (Fiocruz) e Graduada em Ciências Biológicas (UFRJ).
-<p>Atuo por mais de 10 anos em pesquisas científicas, com planejamento, elaboração e execução de projetos, publicações científicas, análise de dados, interpretação e discussão de resultados. Atuo por aproximadamente 3 anos na gestão de políticas públicas a nível estadual, na concepção e desenvolvimento de normativas, decretos, projetos, planos e programas de governo.</p>
+
+## :earth_americas: **Experiência** 
+- Excelência em Pesquisas Científicas (>10 anos);
+- Proficiência em linguagem escrita e oral; 
+- Planejamento, Elaboração, Coordenação e Desenvolvimento de projetos;
+- Comunicação, interna e externa, de resultados e impacto de projetos;
+- Trabalho com equipes multidisciplinares;
 
 ## ⚡ **Cientista e Analista de Dados**   
-
-
-
+Sou uma cientista de dados em formação. Com foco na proposição de soluções e no enfrentamento de desafios através do desenvolvimento de modelos analíticos (preditivos e descritivos).
+## ⚙️ Conhecimento Técnico:
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 
 
 
