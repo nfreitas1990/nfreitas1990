@@ -4,7 +4,7 @@
 
 ## 🧪 **Formação** 
 Atuo por aproximadamente 10 anos como Cientista na área de Ecologia. 
-Especialização em Data Science e Data Analytics pela USP, com previsão de término em 2023.
+<p>Especialização em Data Science e Data Analytics pela USP, com previsão de término em 2023.</p>
 
 ## ⚡ **Cientista e Analista de Dados**   
 
