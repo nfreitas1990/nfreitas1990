@@ -32,7 +32,7 @@ Foco na proposição de soluções e no enfrentamento de desafios através do de
 <a href="https://github.com/nfreitas1990/DataScience">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=DataScience&theme=dark" />
 </a>
-<a href="https://github.com/nfreitas1990/DataScience">
+<a href="https://github.com/nfreitas1990/PowerBi">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=PowerBi&theme=dark" />
 </a>
 
