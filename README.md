@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nfreitas1990/nfreitas1990/blob/main/Adobe_Express_BarradoPerfil.png" />
+  <img src="https://github.com/nfreitas1990/nfreitas1990/blob/main/Adobe_Barra_portfolio.png" />
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nat%C3%A1lia-freitas-de-souza-45829144//)](https://www.linkedin.com/in/nat%C3%A1lia-freitas-de-souza-45829144/)
