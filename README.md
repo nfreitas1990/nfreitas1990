@@ -27,7 +27,7 @@ Sou uma cientista de dados em formação. Com foco na proposição de soluções
 
 <br></br>
 
-<b> :rocket: Principais Repositórios</b>:
+### <b> :rocket: Principais Repositórios</b>:
 
 <a href="https://github.com/nfreitas1990/DataScience">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=DataScience&theme=dark" />
