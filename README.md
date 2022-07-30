@@ -29,6 +29,7 @@ Foco na proposição de soluções e no enfrentamento de desafios através do de
 
 ### <b> :rocket: Principais Repositórios</b>:
 
+**Em construção**
 <a href="https://github.com/nfreitas1990/DataScience">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=DataScience&theme=dark" />
 </a>
