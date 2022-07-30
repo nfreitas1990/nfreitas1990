@@ -19,13 +19,20 @@
 Foco na proposição de soluções e no enfrentamento de desafios através do desenvolvimento de modelos analíticos (preditivos e descritivos). Sou uma cientista de dados em formação.   
 ### ⚙️ Conhecimento Técnico:
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+![RStudio](https://img.shields.io/badge/RStudio-black?style=flat-square&logo=RStudio&logoColor=blue)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
-![ArcGis](https://img.shields.io/badge/-ArcGis-black?style=flat-square&logo=googlemaps)
+![ArcGis](https://img.shields.io/badge/-ArcGis-black?style=flat-square&logo=qgis)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop)
 
 <br></br>
+### ⚙️ Conhecimento Superficial:
+![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual%20studio%20code&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=blue)
+![Phyton](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=blue)
+![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 ### <b> :rocket: Principais Repositórios</b>:
 
