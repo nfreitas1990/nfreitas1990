@@ -31,7 +31,7 @@ Foco na proposição de soluções e no enfrentamento de desafios através do de
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=plastic&logo=visual%20studio%20code&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=plastic&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=plastic&logo=sqlite&logoColor=blue)
-![Phyton](https://img.shields.io/badge/Python-black?style=plastic&logo=python&logoColor=blue)
+![Phyton](https://img.shields.io/badge/Python-black?style=plastic&logo=python&logoColor=yellow)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-black?style=plastic&logo=html5&logoColor=red)
 ![CSS](https://img.shields.io/badge/CSS-black?&style=plastic&logo=css3&logoColor=blue)
