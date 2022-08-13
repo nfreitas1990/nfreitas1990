@@ -33,6 +33,8 @@ Foco na proposição de soluções e no enfrentamento de desafios através do de
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=plastic&logo=sqlite&logoColor=blue)
 ![Phyton](https://img.shields.io/badge/Python-black?style=plastic&logo=python&logoColor=blue)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-black?style=plastic&logo=html5&logoColor=red)
+![CSS](https://img.shields.io/badge/CSS-black?&style=plastic&logo=css3&logoColor=blue)
 
 ### <b> :rocket: Principais Repositórios</b>:
 
