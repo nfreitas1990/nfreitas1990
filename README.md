@@ -27,7 +27,7 @@ Foco na proposição de soluções e no enfrentamento de desafios através do de
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=plastic&logo=adobephotoshop)
 
 <br></br>
-### ⚙️ Conhecimento Superficial:
+### ⚙️ Contato Superficial:
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=plastic&logo=visual%20studio%20code&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=plastic&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=plastic&logo=sqlite&logoColor=blue)
