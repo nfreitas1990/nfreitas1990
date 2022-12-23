@@ -48,7 +48,7 @@ Foco na proposição de soluções e no enfrentamento de desafios através do de
   
   </a>
 <a href="https://github.com/nfreitas1990/AnaliseGeoespacial">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=javascript&theme=dark" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=AnaliseGeoespacial&theme=dark" />
 </a>
 
 </a>
