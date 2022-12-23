@@ -45,10 +45,17 @@ Foco na proposição de soluções e no enfrentamento de desafios através do de
 </a>
 <a href="https://github.com/nfreitas1990/PowerBi">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=PowerBi&theme=dark" />
+  
+  </a>
+<a href="https://github.com/nfreitas1990/AnaliseGeoespacial">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=javascript&theme=dark" />
+</a>
+
 </a>
 <a href="https://github.com/nfreitas1990/javascript">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=javascript&theme=dark" />
 </a>
+
 
 
 
