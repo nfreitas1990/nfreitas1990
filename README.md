@@ -62,5 +62,6 @@ Foco na proposição de soluções e no enfrentamento de desafios através do de
 
 
 
+
 <br></br>
 >### :bulb: "Há um amor pelo maravilhoso, uma crença no maravilhoso entrelaçada em todos os meus projetos, que me precipita além das veredas comuns dos homens, até mesmo para o mar mais bravio e para regiões nunca visitadas que estou prestes a explorar"                                                                                       <p align="right">_Mary Shelley - Frankenstein_ </p>
