@@ -42,19 +42,19 @@ Foco na proposição de soluções e no enfrentamento de desafios através do de
 **Em construção**
 <br></br>
 <a href="https://github.com/nfreitas1990/DataScience">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=DataScience&theme=dark" />
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nfreitas1990&repo=DataScience&theme=dark" />
 </a>
 <a href="https://github.com/nfreitas1990/PowerBi">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=PowerBi&theme=dark" />
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nfreitas1990&repo=PowerBi&theme=dark" />
   
   </a>
 <a href="https://github.com/nfreitas1990/AnaliseGeoespacial">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=AnaliseGeoespacial&theme=dark" />
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nfreitas1990&repo=AnaliseGeoespacial&theme=dark" />
 </a>
 
 </a>
 <a href="https://github.com/nfreitas1990/javascript">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=javascript&theme=dark" />
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nfreitas1990&repo=javascript&theme=dark" />
 </a>
 
 
