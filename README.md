@@ -6,6 +6,7 @@
 
 ### 🧪 **Formação** 
 - Especialização em Data Science e Data Analytics pela USP, com previsão de término em 2023.
+- Especialização Google Data Analytics (PT) pela Coursera, com previsão de término em 2023.
 - Doutorado em Ecologia (UFRJ), Mestre em Ciências (Fiocruz) e Graduada em Ciências Biológicas (UFRJ).
 
 ### :earth_americas: **Experiência** 
