@@ -5,8 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nat%C3%A1lia-freitas-de-souza-45829144//)](https://www.linkedin.com/in/nfsouza/)
 
 ### 🧪 **Formação** 
-- Especialização em Data Science e Data Analytics pela USP, com previsão de término em 2023.
-- Especialização Data Analytics pela Google, com previsão de término em 2023.
+- Especialização em Data Science e Data Analytics pela USP.
 - Doutorado em Ecologia (UFRJ), Mestre em Ciências (Fiocruz) e Graduada em Ciências Biológicas (UFRJ).
 
 ### :earth_americas: **Experiência** 
