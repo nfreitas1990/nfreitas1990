@@ -7,6 +7,7 @@
 ### 🧪 **Formação** 
 - Especialização em Data Science e Data Analytics pela USP.
 - Doutorado em Ecologia (UFRJ), Mestre em Ciências (Fiocruz) e Graduada em Ciências Biológicas (UFRJ).
+- Pós Doutorado em andamento na UFRJ
 
 ### :earth_americas: **Experiência** 
 - Excelência em Pesquisas Científicas (>10 anos);
